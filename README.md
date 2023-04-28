@@ -6,6 +6,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
+- Solution URL: [Add solution URL here](https://github.com/Aiden-Pearce-bytes/FrontEnd-Mentor-Chanllange1)
+- Live Site URL: [Add live site URL here](https://front-end-mentor-chanllange1.vercel.app)
+
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
